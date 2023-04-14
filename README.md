@@ -1,12 +1,17 @@
 # tkn-demo
 tekton + argoCD DevOps Demo
 
-相关链接：
-	https://tekton.dev/vault/pipelines-v0.44.x-lts/
-	https://github.com/tektoncd/pipeline
-	https://hub.tekton.dev/
-	[https://github.com/argoproj/argo-cd/releases](https://github.com/argoproj/argo-cd/releases)
-	https://killercoda.com/
+相关链接： 
+
+https://tekton.dev/vault/pipelines-v0.44.x-lts/
+
+https://github.com/tektoncd/pipeline
+
+https://hub.tekton.dev/
+
+[https://github.com/argoproj/argo-cd/releases](https://github.com/argoproj/argo-cd/releases)
+
+https://killercoda.com/
 
 ## 版本说明
 ```shell
